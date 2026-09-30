@@ -1,5 +1,5 @@
 // Jaden Collado
-//circle colors
+//circle colors v2
 let r1 = 128;
 let g1 = 0;
 let b1 = 0;
@@ -174,7 +174,7 @@ function keyPressed () {
 
   groworshrink++
 
- if (keyIsDown(DOWN_ARROW)) //decrease size of bottom circle on x axis
+ if (keyIsDown(DOWN_ARROW)) //dSecrease size of bottom circle on x axis
 
   groworshrink--
 
