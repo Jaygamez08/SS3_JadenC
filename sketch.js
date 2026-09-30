@@ -174,7 +174,7 @@ function keyPressed () {
 
   groworshrink++
 
- if (keyIsDown(DOWN_ARROW)) //dSecrease size of bottom circle on x axis
+ if (keyIsDown(DOWN_ARROW)) //decrease size of bottom circle on x axis
 
   groworshrink--
 
